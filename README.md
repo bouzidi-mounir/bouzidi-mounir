@@ -2,7 +2,6 @@
 <h3 align="center">A passionate backend developer from Tunisia</h3>
 
 - 🏫 I am a recent graduate in Computer Science from the Faculty of Computer Systems at Badji Mokhtar University Annaba, with a Master's degree specializing in Embedded Systems and Mobility.
-- 🌱 I’m currently learning **React.js**
 
 - 🤔 I’m currently open for a new job opportunity, this is . [MY RESUME](https://drive.google.com/file/d/13382QBQdNs1lvLTnhAVHxsk5dSzRQ5Cp/view?usp=sharing)
 
