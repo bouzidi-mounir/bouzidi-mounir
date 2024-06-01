@@ -3,9 +3,9 @@
 
 - 🏫 I am a recent graduate in Computer Science from the Faculty of Computer Systems at Badji Mokhtar University Annaba, with a Master's degree specializing in Embedded Systems and Mobility.
 
-- 🤔 I’m currently open for a new job opportunity, this is . [MY RESUME](https://drive.google.com/file/d/13382QBQdNs1lvLTnhAVHxsk5dSzRQ5Cp/view?usp=sharing)
+- 🤔 I’m currently open for a new job opportunity, this is . [MY RESUME](https://github.com/bouzidi-mounir)
 
-- 📫 How to reach me **bouzidi.mounir.gmail.com**
+- 📫 How to reach me **bouzidi.mounir.ubma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
